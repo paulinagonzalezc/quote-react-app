@@ -1,22 +1,26 @@
 h1 {
   text-align: center;
   margin: 25px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 body {
   text-align: center;
   font-weight: 100;
-  font-family: "Monserrat", sans-serif;
+  font-family: 'Monserrat', sans-serif;
   background-color: whitesmoke;
 }
 form {
   text-align: center;
-  font-family: "Monserrat", sans-serif;
+  font-family: 'Monserrat', sans-serif;
   margin-bottom: 20px;
 }
 
 label {
   width: 80px;
   display: inline-block;
+}
+
+.item {
+  padding: 0 2px;
 }
